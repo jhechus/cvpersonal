@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Ibarra_real_nova';
+    src: url(./assets/fonts/Ibarra_Real_Nova/IbarraRealNova-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Public_Sans';
+    src: url(./assets/fonts/Public_Sans/PublicSans-VariableFont_wght.ttf);
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+  
